@@ -1,2 +1,5 @@
 # Personal-Portfolio-Projects
-This repo is dedicated to personal projects for my portfolio.
+
+Chess-game branch
+
+In this branch, I built a chess game using simple logic in Java. The code contains the game file and a file for a GUI.
