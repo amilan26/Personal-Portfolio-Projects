@@ -1,0 +1,45 @@
+Learn Java - Codecademy
+
+- Created 1995 by Sun Microsystems
+    * "write once, run everywhere"
+
+basic java class:
+public class HelloYou {
+  public static void main(String[] args) {
+    
+    
+  }
+}
+
+- files end in .java 
+
+Print statements:
+    - System - built in Java class
+    - out - short for output
+    - println() - print on new line
+    - print() - prints on the same line
+    * System.out.println("Place words or variables to print here");
+
+Commenting in Java:
+    - // for single line comments
+    - /* */ for multi line comments
+    - /** */ for Java documentation comments
+
+**All Java statements end in a semicolon ;**
+
+Whitespace in Java doe not affect the program, so use Whitespace to enhance readability
+
+runing "javac filename.java" runs the compiler and shows errors in compiling
+
+once compiled, run java filename to run the complied class
+
+Primitive data types in java:
+int age = 28;
+char grade = 'A';
+boolean late = true;
+byte b = 20;
+long num1 = 1234567;
+short no = 10;
+float k = (float)12.5;
+double pi = 3.14;
+
